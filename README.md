@@ -1,7 +1,2 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
-<table>
-<tr>
-</tr>
-</table>
-
+## Hello, my name is Lucas Marques and I'm learning Data Cience and Python.
+## Games, Muay Thai, Dogs and Cars are some of my passions.
