@@ -1,8 +1,5 @@
 ## Hi, My name is Lucas and I’m currently learning Data Cience and Python 👋
-## - Games
-## - Muay Thai
-## - Dogs
-## - Cars
+## - Games, Muay Thai, Cars and Dogs are my passion
 <!--
 **Lucas10lee/Lucas10lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
