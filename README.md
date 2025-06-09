@@ -1,4 +1,4 @@
-## Hi there 👋
+## I’m currently learning Data Cience 👋
 
 <!--
 **Lucas10lee/Lucas10lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
